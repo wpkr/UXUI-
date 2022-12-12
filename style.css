@@ -1,0 +1,17 @@
+.home {display: inline-block;background-color: darkslategray; padding: 10px; outline-width: 3px; outline-color:  darkblue; margin:1px;}
+
+.Diet {display: inline-block; background-color: darkslategray; padding: 10px; outline-width: 3px; outline-color:  darkblue;margin: 1px;}
+
+.habitat {display: inline-block;background-color: darkslategray; padding: 10px; outline-width: 3px; outline-color:  darkblue; margin: 1px;}
+
+.block_element {
+    width: auto;
+    height: 10px;
+    color: black;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+  }
